@@ -1,5 +1,7 @@
 # Vue products catalog
 
+[ДЕМО](https://www.google.com "Google's Homepage")
+
 ## Project setup
 ```
 yarn install
