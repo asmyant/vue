@@ -1,6 +1,6 @@
 # Vue products catalog
 
-[ДЕМО](https://www.google.com "Google's Homepage")
+[ДЕМО](http://asmyan.com/vue-products-catalog/)
 
 ## Project setup
 ```
