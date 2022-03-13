@@ -1,0 +1,12 @@
+body, html {
+   font-size: $font-size-base;
+}
+
+body, textarea, input, button {
+   font-family: $font-family-base;
+}
+
+body {
+   color: color(dark);
+   background-color: color(bodyBg);
+}

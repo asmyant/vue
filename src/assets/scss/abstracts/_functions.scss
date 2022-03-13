@@ -1,0 +1,6 @@
+@use "variables";
+
+/* Получение цвета с мапа $theme-colors */
+@function color($name) {
+   @return map-get(variables.$theme-colors, $name)
+}
