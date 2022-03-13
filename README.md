@@ -1,4 +1,4 @@
-# catalog
+# Vue products catalog
 
 ## Project setup
 ```
