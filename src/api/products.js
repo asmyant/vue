@@ -1,5 +1,5 @@
 /**
- * Ключ продуков в localStorage
+ * Ключ продуктов в localStorage
  */
 const key = 'products';
 
