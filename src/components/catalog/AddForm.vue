@@ -95,7 +95,7 @@ function addProductItem() {
   // Добавление в хранилище
   store.dispatch('addStoreProduct', { product }).then(() => {
     resetForm();
-    toast.success('Вы успегно доавили товар!');
+    toast.success('Вы успешно добавили товар!');
   });
 }
 

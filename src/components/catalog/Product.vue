@@ -19,7 +19,7 @@ function deleteProduct() {
   loading.value = true;
   store.dispatch('deleteStoreProduct', props.product.id).then(() => {
     loading.value = false;
-    toast.success('Вы успено удалили товар!');
+    toast.success('Вы успешно удалили товар!');
   });
 }
 </script>
